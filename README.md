@@ -21,11 +21,17 @@ History and rapid growth of open source technologies on which our lives depend o
 # Ideas
 
   ## ‘peace  pipeline’
-  - Initially Announced in SAARC; Current status: unknown. A Quote from The Sasia Story :- [Madanjeet Singh, The Sasia Story](https://unesdoc.unesco.org/ark:/48223/pf0000138847/PDF/138847eng.pdf.multi) ‘peace  pipeline’ that  would  originate from Iran’s South Pars gas field and traverse south-western Pakistan  to  the  India  border,  bringing  gas  to  the  energy-starved Indian subcontinent. Natural gas is the cleanest fos-sil  fuel,  and  a  steady  supply  of  it  in  the  region  would  helpslow  carbon  emissions  that  would  otherwise  contribute  toglobal warming. This economically necessary, environmen-tally  friendly  and  security  enhancing  $4  billion  win-win  initiative would be the most economical way to get natural gasfrom  the  Gulf  to  India,  providing  Pakistan  annually  with $600  million  to  $700  million  in  transit  fees,  which  wouldalsocreate  jobs  in  the  restless  regions  of  Baluchistan  andSindh. This stand-alone project – like the integration of thecoal  and  steel  industries  of  Western  Europe,  which  sowed the  seeds  of  the  European  Economic  Union  –  shallinevitably  lead  to  the  South  Asian  Economic  Union,  hope-fully using the Sasia as the common currency.
+  - Initially Announced in SAARC; Current status: unknown. A Quote from The Sasia Story :- [Madanjeet Singh, The Sasia Story](https://unesdoc.unesco.org/ark:/48223/pf0000138847/PDF/138847eng.pdf.multi) ‘peace  pipeline’ that  would  originate from Iran’s South Pars gas field and traverse south-western Pakistan  to  the  India  border,  bringing  gas  to  the  energy-starved Indian subcontinent. Natural gas is the cleanest fos-sil  fuel,  and  a  steady  supply  of  it  in  the  region  would  helpslow  carbon  emissions  that  would  otherwise  contribute  toglobal warming. This economically necessary, environmen-tally  friendly  and  security  enhancing  $4  billion  win-win  initiative would be the most economical way to get natural gasfrom  the  Gulf  to  India,  providing  Pakistan  annually  with $600  million  to  $700  million  in  transit  fees,  which  wouldalsocreate  jobs  in  the  restless  regions  of  Baluchistan  andSindh. This stand-alone project – like the integration of thecoal  and  steel  industries  of  Western  Europe,  which  sowed the  seeds  of  the  European  Economic  Union  –  shallinevitably  lead  to  the  South  Asian  Economic  Union,  hope-fully using the Sasia as the common currency. [Idea: Previous regimes of the countries involved]
 
 ## A Common Currency - Sasia
 
-  - Sasia  mayhelp to promote stability, peace and communal harmony in South  Asia [Madanjeet Singh, The Sasia Story]
+  - Sasia  mayhelp to promote stability, peace and communal harmony in South  Asia [Idea: Madanjeet Singh, The Sasia Story] 
+  - Status: Not started
+
+## A Cryptocurrentcy called Sasia 
+
+  - Success of cryptocurrency has shown that people with vested interest' mentioned above can be sidelined. A cryptocurrency can easily bring people of south countries together in peace and harmony. [Idea: Tariq Abdullah]
+  - Status: Not started
 
 
 ## Add your ideas here
